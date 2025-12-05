@@ -23,7 +23,7 @@
                 
                 <p class="text-xl mt-4 lg:mt-[7rem] ">
                     Reserva el auto que necesitas para tu viaje o genera ingresos<br>
-                    poniendo el tuyo en movimiento.
+                    poniendo el tuyo en movimiento, caballero protestante 3.0.
                 </p>
 
                 <div class="flex flex-col lg:flex-row font-semibold shadow-lg space-x-0 lg:space-x-8 space-y-5 lg:space-y-0 mt-12 text-center">
