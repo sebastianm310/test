@@ -17,7 +17,7 @@
                 <h1 class="text-2xl md:text-5xl lg:text-7xl font-extrabold italic drop-shadow-xl lg:mt-20 ">
                     EL AUTO QUE BUSCAS,<br>
                     LA OPORTUNIDAD<br>
-                    QUE NECESITAS
+                    QUE NECESITAS, Cambio de sebas
                 </h1>
                 
                 <p class="text-xl mt-4 lg:mt-[7rem] ">
